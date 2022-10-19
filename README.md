@@ -16,11 +16,12 @@ Please send me a pull request or contact me at RK Whatapps group.
 
 ## Format
 **Files to be included**
-- Common CAD files / STL
-- Rendered picture of the parts
+- Common CAD files / STLs.
+- Rendered picture of the parts.
 - Photos of the printed parts. (optional)
 - Photos of the part installed. (optional)
-- Photos of the replaced part (optional)
+- Photos of the replaced parts. (optional)
+- Readme.txt that includes printing instructions, credits and other info. 
 
 **File naming**
 e.g. Brand-Model-Name of parts.stl
