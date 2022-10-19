@@ -30,4 +30,4 @@ Please send me a pull request or contact me at RK Whatapps group chat.
 - Readme.txt that includes printing instructions, credits and other info. 
 
 **File naming**
-e.g. Brand-Model-Name of parts.stl
+- e.g. Brand-Model-Name of parts.stl
