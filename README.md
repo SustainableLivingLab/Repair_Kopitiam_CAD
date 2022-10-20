@@ -34,4 +34,4 @@ Please send me a pull request or contact me at RK Whatapps group chat.
 
 ## Contributors
 - Terence Ang
-= Mark Tan
+- Mark Tan
