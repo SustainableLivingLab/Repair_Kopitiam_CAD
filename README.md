@@ -31,3 +31,7 @@ Please send me a pull request or contact me at RK Whatapps group chat.
 
 **File naming**
 - Brand-Model-Name of parts.stl
+
+## Contributors
+- Terence Ang
+= Mark Tan
